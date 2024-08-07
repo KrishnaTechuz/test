@@ -10,7 +10,7 @@ const App = () => {
       <Login />
       <div>
         <h1>KAmlesh</h1>
-      </div>
+      </div> 
       <Footer />
       <MainSection />
     </section>
